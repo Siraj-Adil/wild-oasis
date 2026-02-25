@@ -34,12 +34,9 @@
 <!-- Brief -->
 
 
-**The-Wild-Oasis** is the **admin-facing application** of a **two-part hotel booking platform**. This web app is designed exclusively for hotel employees to manage cabins, bookings, and guests. It is a modern React application built with **React 18**, **Vite**, and **Styled Components**. It leverages **Supabase** as a backend, **React Query** for data fetching and caching, and includes robust error handling, forms, charts, and notifications.
+**The-Wild-Oasis** is the **admin-facing application** of a **two-part hotel booking platform**. This web app is designed exclusively for hotel employees to manage cabins, bookings, and guests. It is a modern React application built with **React 18**, **Vite**, and **Styled Components** and leverages **Supabase** as a backend.
 
 ---
-
-<!-- Screenshot -->
-<a align="center" href="https://wild-oasis-admin-iota.vercel.app/">
 
 ![Screenshot](./screenshots/preview.jpg)
 
