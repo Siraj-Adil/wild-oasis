@@ -103,16 +103,16 @@ Then open [http://localhost:5173](http://localhost:5173) to view it.
 ## 🖼 Screenshots
 
 ### Login Page
-![Home Page](./screenshots/login.png)
+![Login Page](./screenshots/login.png)
 
 ### Dashbaord
-![Menu Page](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Bookings Page
-![Cart Page](./screenshots/bookings.png)
+![Bookings Page](./screenshots/bookings.png)
 
 ### Checkin Booking Page
-![Order Page](./screenshots/checkin_booking.png)
+![Checkin Page](./screenshots/checkin_booking.png)
 
 
 Created by **Siraj Adil**
