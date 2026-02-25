@@ -44,7 +44,7 @@
 
 ## Live Site
 
-Check out the live admin app here: [The Wild Oasis - Admin](https://wild-oasis-admin-iota.vercel.app/p)
+Check out the live admin app here: [The Wild Oasis - Admin](https://wild-oasis-admin-iota.vercel.app/)
 
 ## Customer Version
 
