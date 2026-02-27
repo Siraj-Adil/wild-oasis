@@ -38,7 +38,7 @@
 
 ---
 
-![Screenshot](./screenshots/preview.jpg)
+![Screenshot](./screenshots/preview.png)
 
 </a>
 
